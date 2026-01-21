@@ -12,17 +12,16 @@
   award: Most likely to succeed
   summary: You can choose to have either a single or multiple awards
 
-# Degree
 - degree: Bachelor of Arts and Science, Financial Technology (Double major: Computer Science)
   uni: The University of Hong Kong
-  year: 2023 &mdash; 2027
+  year: 2023 - 2027
   awards:
-    - award: Dean’s Honours List for Engineering Faculty (2023-24) | Young Tsun Dart Scholarship (2024-25)
-  summary: Major Core GPA: 4.06/4.3 | Overall cGPA: 3.87/4.3
+    - award: Dean's Honours List for Engineering Faculty (2023-24)
+    - award: Young Tsun Dart Scholarship (2024-25)
+  summary: Major Core GPA: 4.06/4.3  Overall cGPA: 3.87/4.3
 
 - degree: High School Diploma
-  uni: ShenZhen Middle School 
-  year: 2020 &mdash; 2023
-  awards:
-    - award: Provincial first prize of Chinese Chemistry Olympiad | 4th Place, Mixed Doubles – Shenzhen High School Badminton Championship 
+  uni: ShenZhen Middle School
+  year: 2020 - 2023
+  award: Provincial first prize of Chinese Chemistry Olympiad; 4th Place, Mixed Doubles - Shenzhen High School Badminton Championship
   summary: Key class for science students (2020-2023); Badminton team leader for unit badminton team + member of school badminton team
