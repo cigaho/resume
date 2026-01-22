@@ -1,12 +1,18 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+- skill: Data Science & Engineering
+  description: Expertise in building data pipelines and conducting financial analysis using Python (Pandas), SQL, and big data frameworks (PySpark, Hive). Focuses on processing large-scale datasets, feature engineering, and generating actionable business insights.
+  
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Software engineering & Algorithmic Problem-Solving
+  description: Proficient in systems programming with Java, C++, and C, complemented by Shell scripting for automation. Demonstrates strong foundational knowledge and problem-solving skills through extensive algorithmic practice (500+ LeetCode).
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Blockchain & Smart Contract Development
+  description: Hands-on experience in the full lifecycle of decentralized application development. Skilled in writing secure smart contracts with Solidity and using Ethereum development tools (Foundry, Hardhat) for building, testing, and deploying DApps.
+
+- skill: Machine Learning & AI Model Optimization
+  description: Specializes in building and optimizing predictive models, including gradient boosting (XGBoost) and logistic regression for structured data. Experienced in adapting large language models for specific tasks via fine-tuning with the Hugging Face ecosystem.
+  
+- skill: Multilingual Technical Communication
+  description: Fluent in Mandarin (Native) and English (TOEFL 110), with basic Cantonese proficiency. Enables effective collaboration in international technical teams and clear communication of complex concepts.
