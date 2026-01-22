@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Saudi Arabia Algo Trading Challenge - Algo Challenge Association
+  role: Finalist
+  duration: May, 2025 &mdash; Sep, 2025
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Executed the full lifecycle of a quantitative trading strategy—from initial backtesting and optimization using NumPy/Pandas to final code deployment—achieving Top Tier ranking in the simulated trading phase and qualifying for the live-trading finale in Riyadh.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Web3 Internship Program - ETH Panda & LXDAO
+  role: Participant
+  duration: Jul, 2025 &mdash; Aug, 2025
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Completed a project-based Web3 development program, gaining hands-on experience in Ethereum smart contract development, gas optimization techniques, and full-stack DApp integration. Enhanced practical knowledge through expert-led workshops on DApp architecture and Web3 security, while actively contributing to peer learning via technical documentation and collaborative problem-solving sessions.
