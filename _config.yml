@@ -21,7 +21,7 @@ resume_contact_telephone:       "+852-84031519"
 resume_contact_telephone_2:     "+86-15013751157"
 
 resume_header_contact_info:     "+852-84031519 • huangyr6@connect.hku.hk"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>HKU Bachelor of Arts and Sciences in FinTech (Double major in Computer Science) with a strong academic record (cGPA: 3.87/4.3). Proven experience in data engineering, machine learning modeling, and algorithmic trading through internships at BOC International and Aurora. Skilled in Python, SQL, Java, and blockchain development, with hands-on projects in XGBoost credit scoring, LLM fine-tuning, and Ethereum smart contracts. Seeking technical roles in AI-driven financial solutions, quantitative analysis, Web3 developer, or data engineering.</p>"
 
@@ -44,12 +44,12 @@ resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-#resume_social_links:
-  #resume_github_url:            "https://github.com/jglovier/resume-template"
+resume_social_links:
+  resume_github_url:            "https://cigaho.github.io/resume"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
   #resume_medium_url:            "https://medium.com/@jglovier"
