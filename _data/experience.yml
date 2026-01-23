@@ -9,7 +9,7 @@
 - company: Aurora (NASDAQ-JG)
   position: Data Mining Intern
   duration:  Dec, 2024 &mdash; Jan, 2025
-  summary: here <ul class="resume-item-list"><li> 111  </li><li> 222 </li><li> 333 </li></ul>
+  summary: Established robust data infrastructure and conducted in-depth feature mining to support risk analysis, focusing on constructing reliable data pipelines and uncovering spatial-temporal patterns from large-scale user data. <ul class="resume-item-list"><li> Data Pipeline Development - Built and maintained Hive tables for user profiles and application data, implementing incremental data pipelines with PySpark to ensure efficient and accurate data updates.  </li><li> Feature Engineering for Risk Signals -​ Processed and analyzed loan application samples using SQL and PySpark, performing key feature extraction and visualization to identify preliminary risk indicators. </li><li> Geospatial Pattern Analysis: - Integrated Geocoding API for coordinate conversion and developed location-based features, analyzing user mobility patterns to assess geographic risk factors. </li></ul>
 
 
 # Communications Coordinator
