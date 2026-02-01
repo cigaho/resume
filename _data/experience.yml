@@ -1,16 +1,9 @@
 # Jobs
 # VP of Global Communications
 - company: Aurora (NASDAQ-JG)
-  position: AI Modeling Intern
-  duration: Jul, 2025 &mdash; Aug, 2025
-  summary: Spearheaded the end-to-end development of data-driven AI solutions to enhance risk assessment and operational efficiency, encompassing predictive modeling, natural language processing, and comprehensive technical reporting. <ul class="resume-item-list"><li> Credit Scoring - Built and optimized an XGBoost model to predict loan approval risk, achieving key performance metrics of AUC > 0.8 and KS > 0.4 </li><li>LLM Application - Automated a multi-level tag classification system by fine-tuning large language models on scraped app market descriptions, streamlining data categorization</li><li>Technical Documentation -​ Authored detailed model validation reports, including business impact analysis and methodological documentation to support stakeholder decision-making.</li></ul>
-
-# Director of Digital Stratgy
-- company: Aurora (NASDAQ-JG)
   position: Data Mining Intern
-  duration:  Dec, 2024 &mdash; Jan, 2025
-  summary: Established robust data infrastructure and conducted in-depth feature mining to support risk analysis, focusing on constructing reliable data pipelines and uncovering spatial-temporal patterns from large-scale user data. <ul class="resume-item-list"><li> Data Pipeline Development - Built and maintained Hive tables for user profiles and application data, implementing incremental data pipelines with PySpark to ensure efficient and accurate data updates.  </li><li> Feature Engineering for Risk Signals -​ Processed and analyzed loan application samples using SQL and PySpark, performing key feature extraction and visualization to identify preliminary risk indicators. </li><li> Geospatial Pattern Analysis - Integrated Geocoding API for coordinate conversion and developed location-based features, analyzing user mobility patterns to assess geographic risk factors. </li></ul>
-
+  duration: Jul, 2025 &mdash; Aug, 2025
+  summary: To address institutional clients' demand for automated risk assessment solutions, the project involved developing predictive models by integrating multi-source customer data with internal corporate databases, culminating in the delivery of a credit risk analysis framework and comprehensive analytical reports. <ul class="resume-item-list"><li> Data Engineering - Leveraged PySpark to integrate limited client-provided data with corporate internal Hive databases, performing data linkage, quality validation, and high-discriminatory feature selection. Implemented preprocessing pipelines for structured data transformation to support downstream modeling tasks. </li><li>Credit Risk Modeling - Developed a scoring model using XGBoost with advanced feature engineering (IV selection, WOE encoding) and hyperparameter tuning via cross-validation. Leveraged Scikit-learn for model training/evaluation and SHAP analysis for interpretability, achieving precise risk assessment with AUC>0.8 and KS>0.4.</li><li>Model Delivery & Reporting - Delivered comprehensive documentation including feature importance analysis and predictive performance reports, utilizing SHAP interpretation and stability monitoring to provide business insights, supporting risk control strategy optimization through actionable recommendations.</li></ul>
 
 # Communications Coordinator
 - company: BOC International (China) (601696.SH)
