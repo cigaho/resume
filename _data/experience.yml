@@ -1,11 +1,17 @@
 # Jobs
-# VP of Global Communications
+# Backend Development Intern
+- company: Meituan (HKEx: 3690)
+  position: Backend Development Intern
+  duration: May, 2026 &mdash; Aug, 2026
+  summary: Participated in distributed service development and stability governance for UGC review business. Led Pigeon RPC migration across 7 databases and 3 services, anti-crawling authentication, and root cause analysis. Applied Halo AB platform, Lion config center, and Seer rate-limiting for canary releases and capacity management. Used Claude Code for multi-repo architecture parsing. <ul class="resume-item-list"><li> System Governance & Experimentation: Implemented full canary pipeline via Halo AB + Lion config. Resolved cross-experiment traffic conflict from user authenticity experiment expansion by adding category exemption logic to restore orthogonality. </li><li> Interface Migration & Data Pipeline: Led Pigeon RPC migration across 7 DBs & 3 services with data mapping and version adaptation. Designed cross-service data aggregation pipeline (write → batch query → field assembly) to improve delivery efficiency. </li><li> Stability & AI Efficiency: Enforced multi-interface login auth for anti-crawling. Traced NPE root causes and assessed Seer rate-limiting capacity risks. Used Claude Code for codebase analysis and documented findings as team reference. </li></ul>
+
+# Data mining intern
 - company: Aurora (NASDAQ-JG)
   position: Data Mining Intern
   duration: Jul, 2025 &mdash; Aug, 2025
   summary: To address institutional clients' demand for automated risk assessment solutions, the project involved developing predictive models by integrating multi-source customer data with internal corporate databases, culminating in the delivery of a credit risk analysis framework and comprehensive analytical reports. <ul class="resume-item-list"><li> Data Engineering - Leveraged PySpark to integrate limited client-provided data with corporate internal Hive databases, performing data linkage, quality validation, and high-discriminatory feature selection. Implemented preprocessing pipelines for structured data transformation to support downstream modeling tasks. </li><li>Credit Risk Modeling - Developed a scoring model using XGBoost with advanced feature engineering (IV selection, WOE encoding) and hyperparameter tuning via cross-validation. Leveraged Scikit-learn for model training/evaluation and SHAP analysis for interpretability, achieving precise risk assessment with AUC>0.8 and KS>0.4.</li><li>Model Delivery & Reporting - Delivered comprehensive documentation including feature importance analysis and predictive performance reports, utilizing SHAP interpretation and stability monitoring to provide business insights, supporting risk control strategy optimization through actionable recommendations.</li></ul>
 
-# Communications Coordinator
+# Investment Advisor Assistant
 - company: BOC International (China) (601696.SH)
   position: Investment Advisor Assistant
   duration:   Jul, 2024  &mdash; Aug, 2024
