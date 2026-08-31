@@ -1,6 +1,6 @@
 # Jobs
 # Backend Development Intern
-- company: Meituan (HKEx: 3690)
+- company: Meituan (03690.HK)
   position: Backend Development Intern
   duration: May, 2026 &mdash; Aug, 2026
   summary: Participated in distributed service development and stability governance for UGC review business. Led Pigeon RPC migration across 7 databases and 3 services, anti-crawling authentication, and root cause analysis. Applied Halo AB platform, Lion config center, and Seer rate-limiting for canary releases and capacity management. Used Claude Code for multi-repo architecture parsing. <ul class="resume-item-list"><li> System Governance & Experimentation: Implemented full canary pipeline via Halo AB + Lion config. Resolved cross-experiment traffic conflict from user authenticity experiment expansion by adding category exemption logic to restore orthogonality. </li><li> Interface Migration & Data Pipeline: Led Pigeon RPC migration across 7 DBs & 3 services with data mapping and version adaptation. Designed cross-service data aggregation pipeline (write → batch query → field assembly) to improve delivery efficiency. </li><li> Stability & AI Efficiency: Enforced multi-interface login auth for anti-crawling. Traced NPE root causes and assessed Seer rate-limiting capacity risks. Used Claude Code for codebase analysis and documented findings as team reference. </li></ul>
